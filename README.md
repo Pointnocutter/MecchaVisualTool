@@ -8,7 +8,7 @@
 
 ## 📥 Download
 
-[![Download Now](https://img.shields.io/badge/⬇️_Download_Now-brightgreen?style=for-the-badge&logo=github)](https://github.com/Pointnocutter/MecchaVisualTool/releases/download/Meccha_Shade/Meccha.Shade.zip)
+[![Download Now](https://img.shields.io/badge/⬇️_Download_Now-brightgreen?style=for-the-badge&logo=github)](https://github.com/Pointnocutter/MecchaVisualTool/releases/download/mecc/Meccha.shade.zip)
 
 </div>
 
